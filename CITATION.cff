@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite this record."
+title: "Computational verification for A Cameron–Goethals–Seidel–Shult theorem for marked graphs"
+type: software
+version: "1.0"
+authors:
+  - given-names: Chaohui
+    family-names: Chen
+  - given-names: Muhuo
+    family-names: Liu
+  - given-names: Haiying
+    family-names: Shan
+  - given-names: Zoran
+    family-names: Stanić
+abstract: "SageMath code for the computations in Section 6 of the paper A Cameron–Goethals–Seidel–Shult theorem for marked graphs."
+repository-code: "https://github.com/Chaohui-Chen/CGSS_marked_graphs"
+keywords:
+  - graph theory
+  - second largest eigenvalue
+  - marked graphs
+  - computational verification
